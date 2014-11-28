@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "raiko.94@mail.ru",
+    "longName": "Wpor",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Wpor",
+    "uuid": "42b9d18f-e0ee-4239-86dd-50bd7bcd2ccf",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
